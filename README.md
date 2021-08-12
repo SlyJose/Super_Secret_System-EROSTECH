@@ -1,4 +1,4 @@
-# superSecureSystem-EROSTECH
+# super secret system EROSTECH
 A company repo that should be private.
 
 Hey John,
